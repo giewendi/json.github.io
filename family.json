@@ -60,16 +60,16 @@
     "name": "Adonis Edrian D. Pinlac",
     "relationship": "Brother",
     "age": 7,
-    "email": "adonispinlac@gmail.com",
-    "phone": null,
-    "career": "student"
+    "email": "adonisedrian@gmail.com",
+    "phone": "NA",
+    "career": "Student"
   },
   {
     "name": "Precious Yvonne D. Pinlac",
     "relationship": "Sister",
     "age": 3,
-    "email": null,
-    "phone": null,
-    "career": null
+    "email": "NA",
+    "phone": "NA",
+    "career": "NA"
   }
 ]
