@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Giewen D. Pinlac",
+    "relationship": "Me",
+    "age": 21,
+    "email": "giewenpinlac@gmail.com",
+    "phone": "09496807775",
+    "career": "IT (Developer)"
+  },
+  
+  {
+    "name": "Edgar Y Pinlac",
+    "relationship": "Father",
+    "age": 53,
+    "email": "edgarpinlac@gmail.com",
+    "phone": "09207541111",
+    "career": "IT"
+  },
+  {
+    "name": "Rowena Dionisio",
+    "relationship": "Mother",
+    "age": 48,
+    "email": "rowenadionisio@gmail.com",
+    "phone": "09123456789",
+    "career": "Housewife"
+  },
+  {
+    "name": "Javiely Dionisio",
+    "relationship": "Sister",
+    "age": 27,
+    "email": "javielydionisio@gmail.com",
+    "phone": "09123456799",
+    "career": "Business Administrator"
+  },
+  {
+    "name": "Darwin D. Pinlac",
+    "relationship": "Brother",
+    "age": 22,
+    "email": "darwinpinlac@gmail.com",
+    "phone": "09123456999",
+    "career": "Values Education"
+  },
+  {
+    "name": "Owen Red D. Pinlac",
+    "relationship": "Brother",
+    "age": 20,
+    "email": "ordpinlac@gmail.com",
+    "phone": "09123459999",
+    "career": "Nursing"
+  },
+  {
+    "name": "Stella Gwen D. Pinlac",
+    "relationship": "Sister",
+    "age": 14,
+    "email": "stellagwen@gmail.com",
+    "phone": "09123459999",
+    "career": "Student"
+  },
+  {
+    "name": "Adonis Edrian D. Pinlac",
+    "relationship": "Brother",
+    "age": 7,
+    "email": "adonispinlac@gmail.com",
+    "phone": null,
+    "career": "student"
+  },
+  {
+    "name": "Precious Yvonne D. Pinlac",
+    "relationship": "Sister",
+    "age": 3,
+    "email": null,
+    "phone": null,
+    "career": null
+  }
+]
